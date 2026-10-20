@@ -1,0 +1,102 @@
+[
+  {
+    "source": "tian/CNN_model/model.py",
+    "destination": "CNN_model/model.py"
+  },
+  {
+    "source": "tian/CNN_model/dataset.py",
+    "destination": "CNN_model/dataset.py"
+  },
+  {
+    "source": "tian/CNN_model/augment.py",
+    "destination": "CNN_model/augment.py"
+  },
+  {
+    "source": "tian/CNN_model/train.py",
+    "destination": "CNN_model/train.py"
+  },
+  {
+    "source": "tian/CNN_model/train_mixup.py",
+    "destination": "CNN_model/train_mixup.py"
+  },
+  {
+    "source": "tian/CNN_model/train_cutmix.py",
+    "destination": "CNN_model/train_cutmix.py"
+  },
+  {
+    "source": "tian/CNN_model/evaluate.py",
+    "destination": "CNN_model/evaluate.py"
+  },
+  {
+    "source": "tian/CNN_model/aggregate.py",
+    "destination": "CNN_model/aggregate.py"
+  },
+  {
+    "source": "tian/CNN_model/logs_to_csv.py",
+    "destination": "CNN_model/logs_to_csv.py"
+  },
+  {
+    "source": "tian/CNN_model/preprocess_export.py",
+    "destination": "CNN_model/preprocess_export.py"
+  },
+  {
+    "source": "tian/CNN_model/preprocess_images.py",
+    "destination": "CNN_model/preprocess_images.py"
+  },
+  {
+    "source": "tian/CNN_model/augment_offline_traditional.py",
+    "destination": "CNN_model/augment_offline_traditional.py"
+  },
+  {
+    "source": "tian/CNN_model/gan_cdcgan.py",
+    "destination": "CNN_model/gan_cdcgan.py"
+  },
+  {
+    "source": "tian/CNN_model/diffusion_ddpm.py",
+    "destination": "CNN_model/diffusion_ddpm.py"
+  },
+  {
+    "source": "tian/CNN_model/batch_img2img.py",
+    "destination": "CNN_model/batch_img2img.py"
+  },
+  {
+    "source": "卒業準備/:home:tian:matome2025/3.prog/2.train/pipeline_bamboo_constrained_lora/1.tag making/tag_bamboo_zoom_color_and_make_lora_train.py",
+    "destination": "lora/tag_bamboo_zoom_color_and_make_lora_train.py"
+  },
+  {
+    "source": "卒業準備/:home:tian:matome2025/3.prog/2.train/pipeline_bamboo_constrained_lora/2.lora training/lora_stage4_train_lora.py",
+    "destination": "lora/lora_stage4_train_lora.py"
+  },
+  {
+    "source": "卒業準備/:home:tian:matome2025/3.prog/2.train/pipeline_bamboo_constrained_lora/4.Inference-based image generation/bamboo_constrained_randomization.py",
+    "destination": "lora/bamboo_constrained_randomization.py"
+  },
+  {
+    "source": "卒業準備/:home:tian:matome2025/3.prog/2.train/pipeline_bamboo_constrained_lora/5.Using Classifier accuracy/train_step23.py",
+    "destination": "classifier/train_step23.py"
+  },
+  {
+    "source": "卒業準備/:home:tian:matome2025/3.prog/2.train/pipeline_bamboo_constrained_lora/visualize_texture_features.py",
+    "destination": "lora/visualize_texture_features.py"
+  },
+  {
+    "source": "tian/templete/train/Baseline_1218/model.py",
+    "destination": "classifier/model.py"
+  },
+  {
+    "source": "tian/templete/train/Baseline_1218/dataset.py",
+    "destination": "classifier/dataset.py"
+  },
+  {
+    "source": "tian/templete/train/Baseline_1218/train.py",
+    "destination": "classifier/train.py"
+  },
+  {
+    "source": "tian/templete/train/Baseline_1218/augment.py",
+    "destination": "classifier/augment.py"
+  },
+  {
+    "source": "tian/templete/train/evaluate.py",
+    "destination": "evaluate.py"
+  }
+]
