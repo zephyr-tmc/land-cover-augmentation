@@ -1,0 +1,13 @@
+# Core classification, tagging and evaluation dependencies.
+# Install a matched torch/torchvision pair for your CPU/CUDA platform.
+torch
+torchvision
+numpy
+pandas
+Pillow
+scikit-learn
+matplotlib
+scipy
+tqdm
+requests
+loguru
